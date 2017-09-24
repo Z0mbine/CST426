@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DevEnv.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  singleton.cpp
+  main.cpp
+  Generating Code...
+  DevEnv.vcxproj -> C:\Users\dylan\Documents\GitHub\cst426\patternbattles\battle1\source\Debug\singleton.exe
+  DevEnv.vcxproj -> C:\Users\dylan\Documents\GitHub\cst426\patternbattles\battle1\source\Debug\singleton.pdb (Partial PDB)

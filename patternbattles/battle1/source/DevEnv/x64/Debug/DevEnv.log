@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "void __cdecl Bootil::Console::Msg(enum Bootil::Console::ConsoleColor,enum Bootil::Console::ConsoleColor,char const *,...)" (?Msg@Console@Bootil@@YAXW4ConsoleColor@12@0PEBDZZ) referenced in function "void __cdecl testBuilderPattern(void)" (?testBuilderPattern@@YAXXZ)
+bootil_static_debug.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\dylan\Documents\GitHub\cst426\patternbattles\battle1\source\x64\Debug\DevEnv.exe : fatal error LNK1120: 1 unresolved externals

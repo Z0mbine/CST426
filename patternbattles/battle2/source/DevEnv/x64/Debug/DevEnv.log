@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DevEnv.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\dylan\documents\github\cst426\patternbattles\battle2\source\devenv\gameloop.h(44): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\dylan\documents\github\cst426\patternbattles\battle2\source\devenv\gameloop.h(49): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+main.obj : error LNK2019: unresolved external symbol "void __cdecl Bootil::Console::Msg(enum Bootil::Console::ConsoleColor,enum Bootil::Console::ConsoleColor,char const *,...)" (?Msg@Console@Bootil@@YAXW4ConsoleColor@12@0PEBDZZ) referenced in function "public: void __cdecl GameLoop::Input(void)" (?Input@GameLoop@@QEAAXXZ)
+bootil_static_debug.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\dylan\Documents\GitHub\cst426\patternbattles\battle2\source\x64\Debug\gameloop.exe : fatal error LNK1120: 1 unresolved externals
